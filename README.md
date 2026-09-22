@@ -1,2 +1,2 @@
-\*this is just a window!\*
+*this is just a window!*
 
